@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650143837319",
+    "project_id": "fitness3-eccc2",
+    "storage_bucket": "fitness3-eccc2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650143837319:android:f51178512ba08a58329c22",
+        "android_client_info": {
+          "package_name": "com.codeforany.fitness"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYehBaaSt0o4VGJi74JG1Dokc06I1HJiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
